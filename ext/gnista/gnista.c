@@ -1,5 +1,5 @@
 #include <ruby.h>
-#include <sparkey.h>
+#include <sparkey/sparkey.h>
 
 typedef uint8_t bool;
 #define true 1
